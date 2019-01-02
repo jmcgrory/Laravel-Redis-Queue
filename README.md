@@ -26,6 +26,7 @@ I will be adding the following example features when possible.
 - [ ] Have Queue Save to local DB
 - [ ] Prioritising Queues
 - [ ] Multiple Queues
+- [ ] Before/After methods
 
 ### Low Priority
 
